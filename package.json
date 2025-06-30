@@ -1,0 +1,12 @@
+{
+  "name": "gpt-translator-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/translate.js",
+  "scripts": {
+    "dev": "node api/translate.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
